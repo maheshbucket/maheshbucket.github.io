@@ -1,3 +1,3 @@
-## Mahesh Pathipati
-# maheshbucket.github.io
+# Mahesh Pathipati
+## maheshbucket.github.io
 Personal website
